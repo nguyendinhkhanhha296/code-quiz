@@ -141,10 +141,10 @@ function checkAnswer(event) {
 
     // answer checker
     if (questions[questionCount].correctAnswer === event.target.value) {
-        p.textContent = "Correct!";
+        p.textContent = "Correct! (^ ∇ ^)";
     } else if (questions[questionCount].correctAnswer !== event.target.value) {
         secondsLeft = secondsLeft - 10;
-        p.textContent = "Wrong!";
+        p.textContent = "Wrong! (;° ロ°)";
     }
 
     // increment so the questions index is increased
