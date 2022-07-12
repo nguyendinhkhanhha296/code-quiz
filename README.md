@@ -1,7 +1,14 @@
 # code-quiz
-Challenge week 4
+## Challenge week 4
 
-![screenshot]()
+### Start 
+![screenshot](/assets/2022-07-12-12-50-nguyendinhkhanhha296.github.io.png)
+### Question
+![screenshot](/assets/2022-07-12-13-16-nguyendinhkhanhha296.github.io%20(1).png)
+### Final score
+![screenshot](/assets/2022-07-12-13-16-nguyendinhkhanhha296.github.io%20(2).png)
+### High score
+![screenshot](/assets/2022-07-12-13-17-nguyendinhkhanhha296.github.io.png)
 
 ## Acceptance Criteria
 
